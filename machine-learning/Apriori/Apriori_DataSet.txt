@@ -1,0 +1,247 @@
+DocumentID	Words (split by space)
+train1	mortar assault leaves at least dead
+train2	goal delight for sheva
+train3	nigeria hostage feared dead is freed
+train4	bombers kill shoppers
+train5	vegetables not fruit slow brain decline
+train6	pm havana deal a good experiment
+train7	kate is marrying doherty
+train8	nasa revisiting life on mars question
+train9	happy birthday ipod
+train10	alonso would be happy to retire with three titles
+train11	madonna s new tot happy at home in london
+train12	nicole kidman asks dad to help stop husband s drinking
+train13	united finds good connection in win
+train14	runway making good without making nice
+train15	we were arrogant and stupid over iraq says us diplomat
+train16	bad reasons to be good
+train17	madonna s new baby s daddy didn t realize adoption was for good
+train18	women in their s are perfectly good mothers
+train19	we re a pretty kind bully
+train20	moderate drinking reduces men s heart attack risk
+train21	tom cruise and katie holmes set wedding date
+train22	kidnapped ap photographer freed in gaza
+train23	bush insists troops stay in iraq predicts midterm victory
+train24	hurricane paul weakens to tropical storm
+train25	uk announces immigration restrictions
+train26	three found alive from missing russian ship report
+train27	poison pill to swallow hawks hurting after loss to vikes
+train28	injured marathon winner leaves hospital
+train29	hacker unlocks apple music download protection
+train30	spanish journalist seized in gaza
+train31	sudan urges un to replace its special envoy
+train32	resolution approved for international games
+train33	pair of satellites will document sun in d
+train34	martian life could have evaded detection by viking landers
+train35	the sweet tune of an anniversary
+train36	did viking probes miss life on mars
+train37	diplomat acknowledges us arrogance in iraq
+train38	more human remains found at ground zero
+train39	how to prevent iraq from getting even worse
+train40	tensions as hungary marks uprising
+train41	stanford study warns of internet addiction
+train42	no evidence of ice reserves on the moon
+train43	parachutist dies at bridge jump festival
+train44	us troops killed in october in iraq
+train45	chefs not counting calories study finds
+train46	deaths linked to flu vaccine
+train47	perfect lives lose their focus
+train48	bread heavy diet linked to kidney cancer
+train49	beating poverty in a small way
+train50	israel insists on lebanon overflights
+train51	britain to restrict immigrants from new eu members
+train52	confusion reigns in the expanding digital world
+train53	game on london exhibition celebrates the history of video games
+train54	making peace from victory over poverty
+train55	marine killed in fighting west of baghdad
+train56	scientists create first cloaking device
+train57	amateur rocket scientists reach for space
+train58	confusion reigns in the expanding digital world
+train59	deaths linked to flu vaccine
+train60	israel admits using phosphorous shells in lebanon
+train61	th person dies after receiving flu shot
+train62	police and shoppers targeted in growing iraq violence
+train63	scientists discover miracle in the depths
+train64	doctors seeing patients who think they re internet addicted
+train65	china launches two satellites into orbit
+train66	vegetables may boost brain power in older adults
+train67	hurricane paul nears category status
+train68	russian ship sinks member crew missing
+train69	iran s president urges higher birth rate
+train70	apple set for massive market gains
+train71	tumor types may explain survival rates for cancer
+train72	routine mission turns into hunt for missing comrade
+train73	bad weather slows s korean search for russian ship
+train74	tailors and housewives busy as muslims celebrate eid
+train75	active peace brings the promise of development
+train76	abbas condemns israeli massacre in northern gaza strip
+train77	bangladesh ferry sinks dead
+train78	bucs find a new kick in life
+train79	google to unveil election mashup
+train80	police warn of child exploitation online
+train81	breast cancer awareness is important
+train82	hungary police tackle violent protestors
+train83	three drivers had reason to be proud in brazil
+train84	celebrities protest malibu gas facility
+train85	presto he s batman then magic man
+train86	heavy use of mobile phones can make men infertile scientists say
+train87	russian ship sinks in pacific
+train88	china successfully launches two satellites
+train89	prestige has magic touch
+train90	lies damned lies and divorce
+train91	manning inspires giants to victory in dallas
+train92	riot warning for france suburbs
+train93	full recovery expected for marathon winner
+train94	sony apologises for global battery recall
+train95	questions on credit card safety
+train96	budapest calm after night of violent protests
+train97	vegetables may boost brain power in older adults
+train98	report criticises us press freedoms
+train99	french suburb riots could resume
+train100	photographer kidnapping condemned
+train101	photographer kidnapped in gaza
+train102	baseball rogers enjoys his muddied streak
+train103	cultural revolutionary the ipod is five
+train104	life on mars maybe we missed it
+train105	three found alive from missing russian ship report
+train106	moderate drinking reduces men s heart attack risk
+train107	the sweet tune of an anniversary
+train108	inconvenient truths
+train109	dating difficult for harry potter
+train110	students lose their rite of passage
+train111	putin vows to tackle illegal immigration
+train112	ottawa must redefine terror
+train113	britain to limit workers from romania bulgaria
+train114	top general optimistic on iraq
+train115	kim osorio wins sexual harrassment suit against the source
+train116	silly and substantial
+train117	official laughs for borat
+train118	speaker hastert testifies before panel probing sex scandal
+train119	tom cruise and katie holmes set wedding date
+train120	martian life could have evaded detection by viking landers
+train121	ukraine gas deal marred by fears
+train122	marathon victory comes at heavy cost
+train123	college tuition continues climbing
+train124	german paper shows soldiers desecrating skull
+train125	war is close ethiopia tells somali rebels
+train126	advantage cardinals with suppan in game
+train127	nasa spacecraft to measure sun
+train128	sony hates europeans will prevent the importing of ps
+train129	flu vaccine appears safe for young children
+train130	google to launch yet another search tool
+train131	tropical storm paul s outer bands hit mexico s baja california
+train132	israeli bomblets plague lebanon
+train133	new indonesia calamity a mud bath is man made
+train134	u s weighs sanctions against north korea
+train135	rice in baghdad insists that iraqis are
+train136	senator says u s should rethink iraq strategy
+train137	german chief forges accord on financing health care
+train138	turkish writers say efforts to stifle speech may backfire
+train139	kurdish lawmaker killed in an attack in baghdad
+train140	anti u s attack videos spread on the internet
+train141	women face greatest threat of violence at home study finds
+train142	appeal by chinese researcher for times may soon be heard
+train143	brazil air force cites faults and confusion in fatal crash
+train144	a mix of oil and environmentalism
+train145	immigrants and french reach deal in standoff
+train146	genghis khan beer mongolia grimaces
+train147	dead bachelors in remote china still find wives
+train148	paris journal smoking no longer tres chic in france
+train149	an old letter casts doubts on iran s goal for uranium
+train150	u s warns north koreans about nuclear test
+train151	global sludge ends in tragedy for ivory coast
+train152	equipment on plane in brazil collision may have been faulty
+train153	new indonesia calamity a mud bath is man made
+train154	iraqi journalists add laws to list of dangers
+train155	u n force is treading lightly on lebanese soil
+train156	cleric said to lose reins over part of iraqi militia
+train157	citing spy agencies study democrats seek iraq changes
+train158	opera canceled over a depiction of muhammad
+train159	military officials add to u s criticism of iraq s government
+train160	teacher in hiding after attack on islam stirs threats
+train161	combative bush releases parts of terror study
+train162	growing unarmed battalion in qaeda army is using internet to get the message out
+train163	iraqi linked to sunni bloc is held in plot military says
+train164	seduced by snacks no not you
+train165	friends for life an emerging biology of emotional healing
+train166	alzheimer s drugs offer no help study finds
+train167	across europe worries on islam spread to center
+train168	cooking defines sephardic jews at sukkot
+train169	fitness bodies in motion clean and sober
+train170	in god s name religion based tax breaks housing to paychecks to books
+train171	yankee dies in plane crash official says
+train172	an elephant crackup
+train173	with youtube grad student hits jackpot again
+train174	dow flirts with record highs again
+train175	tropical storm isaac forms in atlantic
+train176	new iraq terror tape calls for abducting foreigners
+train177	deep regret for ex hp exec
+train178	opportunity knocks on geologist s dream crater
+train179	squirrel jumps boy in park rabies suspected
+train180	girl left comatose after dental visit dies
+train181	porn star candidate campaigns on campus
+train182	school ends football season after start
+train183	charlie sheen to become highest paid sitcom star
+train184	jon stewart mocks benefits of cnn s i
+train185	ashton kutcher tells secret to ryan seacrest
+train186	nails on chalkboard study earns ig
+train187	gunman fine before shooting
+train188	marijuana may stave off alzheimer s
+train189	kentucky seeks alcohol huffing ban
+train190	toddler died from tainted spinach
+train191	judge dismisses karr s porn case
+train192	die in hour kashmir standoff
+train193	slain amish girls laid to rest
+train194	flee plant fire
+train195	cher auction fetches double pre sale estimates
+train196	stars scuffle on grey s anatomy
+train197	probe under way in yankee crash
+train198	amish schoolhouse torn down
+train199	warner will not run in
+train200	reid land deal under scrutiny
+train201	flooding washes out road to valdez alaska
+train202	briton admits u s bomb plot role
+train203	commentary minutemen have a right to be idiotic
+train204	madonna files adoption papers
+train205	gunmen kill at iraqi tv station
+train206	hastert sorry for scandal but not quitting
+train207	ex jonbenet suspect child porn case dropped
+train208	waste plant fire forces to evacuate
+train209	toddler died from e coli tainted spinach
+train210	disturbing finds in child sex raids
+train211	magazine lists women who had abortions
+train212	pot smokers may avoid alzheimer s study says
+train213	student starts white men s club on campus
+train214	kentucky wants to ban alcohol inhalers
+train215	peter pan flies into chapter two
+train216	teen repellent inventor wins infamous prize
+train217	cher s dress car bed have new owners
+train218	dow hits new record eyes
+train219	ex virginia gov not running for president
+train220	yankee pitcher s pilot log found
+train221	dem leader s million land deal under scrutiny
+train222	dad locked up son watched on tv police say
+train223	navarrette minutemen have a right to be idiotic
+train224	pit bulls jump miniature pony leave her bloody
+train225	alaska town cut off from rest of state by flood
+train226	trailblazing trio protects city by the bay
+train227	madonna files adoption papers in malawi
+train228	dr mcdreamy choked in grey s scuffle
+train229	poetry prize awarded
+train230	las vegas honour for tiger pair
+train231	uk characters boosting box office
+train232	cher items snapped up at auction
+train233	griffiths scorns withnail play
+train234	lily allen wins web music award
+train235	costner appeals in casino wrangle
+train236	beyonce copyright claim rejected
+train237	cohn gunman jailed for years
+train238	melua s deep sea gig sets record
+train239	sri lanka clashes kill troops
+train240	gunmen kill in iraq tv raid
+train241	italy drops sicily bridge plans
+train242	amish killings school demolished
+train243	pamuk wins nobel literature prize
+train244	madonna adoption bid approved
+train245	man admits uk us terror bomb plot
+train246	who are you calling fat
