@@ -1,0 +1,15 @@
+[Template]
+ver=1
+Name=XySSL SSL Server
+Description=An example SSL Server using XySSL.
+Catagory=Basic
+
+[Unit0]
+C=XySSL_ssl_server_c.txt
+Cpp=XySSL_ssl_server_c.txt
+
+[Project]
+UnitCount=1
+Type=1
+Linker=-lxyssl -lwsock32
+Name=XySSL SSL Server

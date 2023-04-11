@@ -1,0 +1,15 @@
+[Template]
+ver=1
+Name=XySSL advanced SSL Client
+Description=A more advanced example SSL client using XySSL.
+Catagory=Basic
+
+[Unit0]
+C=XySSL_ssl_client2_c.txt
+Cpp=XySSL_ssl_client2_c.txt
+
+[Project]
+UnitCount=1
+Type=1
+Linker=-lxyssl -lwsock32
+Name=XySSL SSL Client2
